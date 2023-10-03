@@ -27,8 +27,7 @@ const imagesData = [
   },
   {
     title: "Puerta de Vidrio Transparente",
-    description:
-      "Puerta de vidrio transparente para un espacio luminoso y elegante.",
+    description:"Puerta de vidrio transparente para un espacio luminoso y elegante.",
     imageUrl: "/imagenes_inicio/puerta-vidrio-transparente.jpg",
   },
   {
@@ -80,7 +79,7 @@ export default function Home() {
         message="Haz clic en las imágenes para obtener un presupuesto"
       />
 
-      <Typography variant="h1" className="text-4xl text-center mt-5   shadow-xl text-white bg-gradient-to-r from-yellow-300 to-orange-800 p-4">
+      <Typography className="text-4xl text-center mt-5   shadow-xl text-white bg-gradient-to-r from-yellow-300 to-orange-800 p-4">
         Productos
       </Typography>
 
