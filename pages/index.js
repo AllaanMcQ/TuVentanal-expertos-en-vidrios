@@ -79,7 +79,7 @@ export default function Home() {
         message="Haz clic en las imágenes para obtener un presupuesto"
       />
 
-      <Typography className="text-4xl text-center mt-5   shadow-xl text-white bg-gradient-to-r from-yellow-300 to-orange-800 p-4">
+      <Typography className="text-2xl text-center mt-5   shadow-xl text-white bg-gradient-to-r from-yellow-300 to-orange-800 p-4">
         Productos
       </Typography>
 
